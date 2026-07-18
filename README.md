@@ -2,7 +2,7 @@
 
 doing dsa (data structure algorithm)
 
-dsa in java from ut
+dsa in java
 
 dsa in c at college
 
