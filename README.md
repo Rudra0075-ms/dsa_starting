@@ -2,11 +2,10 @@
 
 doing dsa (data structure algorithm)
 
-dsa in java 
+dsa in java from ut
 
 dsa in c at college
 
 dsa : hackerrank, gfg, leetcode, codechef
 
-
-codolio to keep the record
+codolio to track the record
