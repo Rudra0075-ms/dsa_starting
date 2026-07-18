@@ -1,8 +1,9 @@
-# dsa_starting
+# starting_dsa
+
 
 doing dsa (data structure algorithm)
 
-dsa in java
+dsa in java for interview round clearance
 
 dsa in c at college
 
