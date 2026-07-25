@@ -1,5 +1,7 @@
 # starting_dsa
 
+started dsa practicing 
+
 #beginner...........
 
 doing dsa (data structure algorithm)
