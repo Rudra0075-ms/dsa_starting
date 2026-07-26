@@ -12,7 +12,7 @@ dsa in c at college... going smooth
 
 dsa : hackerrank, gfg, leetcode, codechef, unstop certificate on progress
 
-codesketch to build
+codesketch to build logic
 
 codolio to track the record of practicing
 
