@@ -14,7 +14,7 @@ dsa : hackerrank, gfg, leetcode, codechef, unstop certificate on progress
 
 codesketch to build logic
 
-unstop is just unstoppable with
+unstop is just unstoppable with notes & vdos
 
 codolio to track the record of practicing
 
