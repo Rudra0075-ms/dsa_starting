@@ -1,21 +1,18 @@
 # starting_dsa
 
-started dsa practicing 
+started practicing dsa
 
 #beginner...........
 
-doing dsa (data structure algorithm)
+doing dsa (data structure & algorithm)
 
-dsa in java for interview round clearance
+dsa in java for interview round clearance & to build strong logic in building real world problems
 
-dsa in c at college... going smooth
+dsa in c for sem basis
 
 dsa : hackerrank, gfg, leetcode, codechef, unstop certificate on progress
 
 codesketch to build logic
-
-
-unstop is literally my helping partner in dsa 
 
 codolio to track the record of practicing
 
