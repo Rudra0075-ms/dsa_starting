@@ -3,13 +3,13 @@
 
 started practicing dsa
 
-#beginner...........
+# beginner...........
 
 doing dsa (data structure & algorithm)
 
 dsa in java for interview round clearance & to build strong logic in building real world problems
 
-#interesting
+# interesting
 
 dsa in c for sem basis
 
