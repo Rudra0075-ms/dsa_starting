@@ -5,6 +5,8 @@ started practicing DSA
 
 # google antigravity
 
+#mingw64
+
 # beginner...........
 
 doing dsa (data structure & algorithm)
