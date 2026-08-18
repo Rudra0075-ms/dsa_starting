@@ -1,7 +1,7 @@
 ````
 # starting_dsa
 
-started practicing DSA
+started practicing DSA (c)
 
 # google antigravity
 
