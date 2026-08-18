@@ -3,7 +3,7 @@
 
 started practicing DSA (c)
 
-# google antigravity
+# google antigravity ide
 
 #mingw64
 
