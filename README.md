@@ -5,7 +5,7 @@ started practicing DSA (c)
 
 # google antigravity ide
 
-#mingw64
+#msys
 
 # beginner...........
 
