@@ -5,7 +5,8 @@ started practicing DSA (c)
 
 # google antigravity ide
 
-#msys
+#msys gcc
+
 
 # beginner...........
 
