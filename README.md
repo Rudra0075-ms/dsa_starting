@@ -7,7 +7,7 @@ started practicing DSA (c)
 
 #msys gcc
 
-# beginner...........
+# beginner..!!
 
 doing dsa (data structure & algorithm)
 
